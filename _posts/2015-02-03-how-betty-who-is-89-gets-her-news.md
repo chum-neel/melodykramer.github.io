@@ -22,8 +22,13 @@ Here&#8217;s what I&#8217;m picturing:
 4. easy and big scroll buttons  
 5. maybe two-steps needed to leave the page
 
+From an overall design process strong consideration needs to be given to the functional reason as to why someone who didn't grow up with with technology would decide to use it. It could be as simple as a need to communicate with your grandchildren who live far away, or it could be as complex as finding ways to retain your independence and being self-sufficient after moving into a retirement residence. This question needs to be asked before venturing down the design-path, with the question "how much closer does this service get the user to fulfilling their need". 
+
 Have you seen something that would be well-designed for Betty? What would you make?   #newsforbetty
 
 Mel
+
+
+
 
  [1]: http://www.census.gov/prod/cen2010/briefs/c2010br-09.pdf
